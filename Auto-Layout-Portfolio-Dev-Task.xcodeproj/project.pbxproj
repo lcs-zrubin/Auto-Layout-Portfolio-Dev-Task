@@ -12,6 +12,7 @@
 		81C9E3502031B29900C2C728 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81C9E34E2031B29900C2C728 /* Main.storyboard */; };
 		81C9E3522031B29900C2C728 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81C9E3512031B29900C2C728 /* Assets.xcassets */; };
 		81C9E3552031B29900C2C728 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81C9E3532031B29900C2C728 /* LaunchScreen.storyboard */; };
+		81C9E35D2031BA6A00C2C728 /* README.rtfd in Resources */ = {isa = PBXBuildFile; fileRef = 81C9E35C2031BA6A00C2C728 /* README.rtfd */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		81C9E3512031B29900C2C728 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81C9E3542031B29900C2C728 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		81C9E3562031B29900C2C728 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81C9E35C2031BA6A00C2C728 /* README.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = README.rtfd; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		81C9E3492031B29900C2C728 /* Auto-Layout-Portfolio-Dev-Task */ = {
 			isa = PBXGroup;
 			children = (
+				81C9E35C2031BA6A00C2C728 /* README.rtfd */,
 				81C9E34A2031B29900C2C728 /* AppDelegate.swift */,
 				81C9E34C2031B29900C2C728 /* ViewController.swift */,
 				81C9E34E2031B29900C2C728 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 				81C9E3552031B29900C2C728 /* LaunchScreen.storyboard in Resources */,
 				81C9E3522031B29900C2C728 /* Assets.xcassets in Resources */,
 				81C9E3502031B29900C2C728 /* Main.storyboard in Resources */,
+				81C9E35D2031BA6A00C2C728 /* README.rtfd in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
